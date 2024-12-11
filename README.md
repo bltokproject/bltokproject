@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer from Bermuda/Peak City.
 
 Here are some cool stats about my coding journey:
 
-![Xyruu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyruu&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=material)
+![Xyruu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bltokproject&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=material)
 
 ## 📈 My Coding Activity
 
