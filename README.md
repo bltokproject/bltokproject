@@ -19,7 +19,7 @@ Here are some cool stats about my coding journey:
 
 Check out my streak and contributions over time!
 
-![Xyruu's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=xyruu&theme=material&hide_border=true)
+![Xyruu's Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=bltokproject&theme=material&hide_border=true)
 
 ## 🔧 Technologies & Tools
 
